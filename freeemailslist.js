@@ -25,3 +25,7 @@ function freeemailslist() {
 			return true;  
 		  }
 }
+
+function removealert() {
+		  $('#msg').hide();
+			}
